@@ -152,6 +152,7 @@ Backend | [링크](https://github.com/Blog-Posting/study-service-backend)
 ## 📚 Book
 제목 | Repository
 :---: | :---:
+[함께자라기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=244299982) | [1장](https://github.com/ksy90101/TIL/blob/master/book/growing-together-1.md) / [2장](https://github.com/ksy90101/TIL/blob/master/book/growing-together-2.md) / [3장](https://github.com/ksy90101/TIL/blob/master/book/growing-together-3.md)
 
 ## Lecture
 강의명 | Repository

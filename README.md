@@ -106,10 +106,10 @@ Project | Repository | Pull Request |
 웹서버 구현 / step4 | [jwp-was/step4](https://github.com/ksy90101/jwp-was/tree/level4) | [Pull Request](https://github.com/woowacourse/jwp-was/pull/193)
 점진적인 리팩토링 / step1 | [jwp-refactoring/step1](https://github.com/ksy90101/jwp-refactoring/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/8)
 점진적인 리팩토링 / step2 | [jwp-refactoring/step2](https://github.com/ksy90101/jwp-refactoring/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/19)
-점진적인 리팩토링 / step3 | comming soon... | comming soon...
+점진적인 리팩토링 / step3 | [jwp-refactoring/level3](https://github.com/ksy90101/jwp-refactoring/tree/levle3) | [Pull Reqeust](https://github.com/woowacourse/jwp-refactoring/pull/97)
 
 ### 📹 Tecotalk : 크루들에게 지식을 공유하는 방법
-- 2020.10.21 comming soon... 
+[럿고의 CORS](https://www.youtube.com/watch?v=7iGIfcEsc2g&t=5s)
 
 ### 🖋 Writing : 글쓰기 코스
 
@@ -119,7 +119,7 @@ Level | Topic | Repository | Pull Request
 1 | 우아한테크코스 한 달 생활기 | [woowa-writing-2/level1](https://github.com/ksy90101/woowa-writing-2/blob/level3/level1.md) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/51)
 2 | 우테코에서 찾은 나만의 효과적인 학습법 | [woowa-writing-2/level2](https://github.com/ksy90101/woowa-writing-2/blob/level3/level2.md) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/103)
 3 | 팀 프로젝트가 나에게 남긴 것 | [woowa-writing-3](https://github.com/ksy90101/woowa-writing-2/blob/level3/level3.md) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/144)
-4 | comming soon... | comming soon... | comming soon...
+4 | 내가 꿈꾸는 프로그래머로서의 삶 | [woowa-writing-4](https://github.com/woowacourse/woowa-writing-2/blob/ksy90101/level4.md) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/165)
 
 ## Study
 
@@ -155,5 +155,5 @@ Backend | [링크](https://github.com/Blog-Posting/study-service-backend)
 ## Lecture
 강의명 | Repository
 :---: | :---: 
-[인프런] Vue.js 시작하기 - Age of Vue.js | [링크](https://github.com/ksy90101/age-of-vue-js)
-
+[인프런] Vue.js 시작하기 - Age of Vue.js | [저장소](https://github.com/ksy90101/age-of-vue-js)
+[\[토크ON세미나\] JPA 프로그래밍 기본기 다지기](https://youtu.be/WfrSN9Z7MiA) | [저장소](https://github.com/ksy90101/tacademy-jpa-basic)

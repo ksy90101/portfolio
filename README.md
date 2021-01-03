@@ -11,7 +11,7 @@
 Booknabada | [링크](https://github.com/ksy90101/Booknabada) | - |
 Slack Bot | [링크](https://github.com/KimGyeong/laborSong) | - |
 우아한 리뷰 검색기 | [링크](https://github.com/ReviewSearch/review-search) | - |
-Taggle | [링크](https://github.com/woowacourse-teams/2020-taggle) | [서비스 페이지 ](https://taggle.kr) / [크롬 익스텐션](https://chrome.google.com/webstore/detail/taggle/oacdjiemdacpldngplhlklpkeijpjijc)
+Taggle | [링크](https://github.com/woowacourse-teams/2020-taggle) | [서비스 페이지](https://taggle.kr) / [크롬 익스텐션](https://chrome.google.com/webstore/detail/taggle/oacdjiemdacpldngplhlklpkeijpjijc)
 
 ## ‍💻 우아한테크코스 (2020. 02. 11 ~ )
 
@@ -139,13 +139,13 @@ Repository | Team Blog
 :---: | :---: 
 [링크](https://github.com/Blog-Posting/posting-review) | [링크](https://blog-posting.github.io/)
 
-#### Service 개발 프로젝트
-- 진행 중.....
+### Effective Java Study
+- 기간 : 2021. 01. 04 ~ 
 
-Name | Repository | 
-:---: | :---: 
-Frontend | [링크](https://github.com/Blog-Posting/study-service-frontend)
-Backend | [링크](https://github.com/Blog-Posting/study-service-backend)
+Repository |
+:---: |
+[링크](https://github.com/Blog-Posting/book-effective-java)
+
 
 ## 📚 Book
 제목 | Repository
